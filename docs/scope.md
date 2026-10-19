@@ -14,7 +14,7 @@
 
 ## Out of scope
 
-This assignment prototype does not provide authentication, admissions
+This is only a prototype and it does not provide authentication, admissions
 decision-making, real student-record processing, payment processing, semantic
 entailment, multilingual coverage, multi-turn attack state, or production
 monitoring.

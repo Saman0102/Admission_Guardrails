@@ -66,6 +66,10 @@ Open `http://localhost:8501`. The UI includes:
 The frontend calls the existing deterministic orchestrator directly; it does not
 add a second safety implementation or require an API server.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Use Google AI Studio Gemini
 
 The project supports Gemini through Google's official `google-genai` Python SDK.
@@ -176,16 +180,3 @@ measured improvement.
 - Retry malformed model output exactly once.
 - Require source IDs and bounded confidence in every structured answer.
 - Use simple explainable methods rather than external ML dependencies.
-
-## Known limitations and restrictions
-
-This is an assignment prototype, not a production admissions system.
-Injection detection is pattern-based, PII detection misses obfuscation, and
-groundedness is lexical rather than semantic. It has no authentication, UI,
-HITL, tool authorization, hash-chained audit log, secrets scanner, NLI model,
-multi-turn state, streaming support, or real-provider evaluation.
-
-Use only for low-stakes demonstrations with fictional data and human review
-for sensitive categories. Do not use it for admissions decisions, real
-student records, medical/legal advice, payment processing, or unsupervised
-production traffic.
