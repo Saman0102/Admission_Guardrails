@@ -1,0 +1,100 @@
+{
+  "default_threshold": 0.5,
+  "strict_threshold": 0.8,
+  "default_metrics": {
+    "total_cases": 35,
+    "guardrails": {
+      "injection": {
+        "tp": 4,
+        "fp": 0,
+        "tn": 28,
+        "fn": 3,
+        "precision": 1.0,
+        "recall": 0.5714285714285714
+      },
+      "pii": {
+        "tp": 4,
+        "fp": 1,
+        "tn": 29,
+        "fn": 1,
+        "precision": 0.8,
+        "recall": 0.8
+      },
+      "sensitive_topic": {
+        "tp": 4,
+        "fp": 0,
+        "tn": 31,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "groundedness": {
+        "tp": 4,
+        "fp": 2,
+        "tn": 29,
+        "fn": 0,
+        "precision": 0.6666666666666666,
+        "recall": 1.0
+      },
+      "output_leakage": {
+        "tp": 2,
+        "fp": 0,
+        "tn": 33,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      }
+    },
+    "status_pass_rate": 0.8857142857142857,
+    "action_pass_rate": 0.8
+  },
+  "strict_metrics": {
+    "total_cases": 35,
+    "guardrails": {
+      "injection": {
+        "tp": 4,
+        "fp": 0,
+        "tn": 28,
+        "fn": 3,
+        "precision": 1.0,
+        "recall": 0.5714285714285714
+      },
+      "pii": {
+        "tp": 4,
+        "fp": 1,
+        "tn": 29,
+        "fn": 1,
+        "precision": 0.8,
+        "recall": 0.8
+      },
+      "sensitive_topic": {
+        "tp": 4,
+        "fp": 0,
+        "tn": 31,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "groundedness": {
+        "tp": 4,
+        "fp": 2,
+        "tn": 29,
+        "fn": 0,
+        "precision": 0.6666666666666666,
+        "recall": 1.0
+      },
+      "output_leakage": {
+        "tp": 2,
+        "fp": 0,
+        "tn": 33,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      }
+    },
+    "status_pass_rate": 0.8857142857142857,
+    "action_pass_rate": 0.8
+  },
+  "status_changes": [],
+  "additional_status_failures": 0
+}

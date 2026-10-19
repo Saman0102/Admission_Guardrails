@@ -1,0 +1,107 @@
+[
+  {
+    "id": "KB001",
+    "title": "Undergraduate application deadline",
+    "text": "The undergraduate application deadline is November 30, 2026. Applications received after the deadline are reviewed only if space remains.",
+    "confidential": false,
+    "category": "deadlines"
+  },
+  {
+    "id": "KB002",
+    "title": "Graduate application deadline",
+    "text": "The graduate application deadline is January 15, 2027. Graduate programs may set earlier department deadlines.",
+    "confidential": false,
+    "category": "deadlines"
+  },
+  {
+    "id": "KB003",
+    "title": "Application fee",
+    "text": "The application fee is 45 US dollars per submitted application. The fee is paid online before final submission.",
+    "confidential": false,
+    "category": "fees"
+  },
+  {
+    "id": "KB004",
+    "title": "Tuition",
+    "text": "Estimated tuition is 6,800 US dollars per semester for full-time undergraduate study. The estimate excludes housing and meal plans.",
+    "confidential": false,
+    "category": "fees"
+  },
+  {
+    "id": "KB005",
+    "title": "Required documents",
+    "text": "Applicants submit an application form, academic transcripts, one identification document, and a personal statement. Some programs also request recommendations.",
+    "confidential": false,
+    "category": "documents"
+  },
+  {
+    "id": "KB006",
+    "title": "Scholarship eligibility",
+    "text": "The merit scholarship requires a minimum cumulative GPA of 3.50 and a complete application submitted by the relevant deadline.",
+    "confidential": false,
+    "category": "scholarships"
+  },
+  {
+    "id": "KB007",
+    "title": "International student requirements",
+    "text": "International applicants provide a valid passport, proof of funding, academic records, and an approved English-language test score.",
+    "confidential": false,
+    "category": "international"
+  },
+  {
+    "id": "KB008",
+    "title": "Transcript submission",
+    "text": "Applicants upload an unofficial transcript during the application and arrange for an official transcript to be sent after admission.",
+    "confidential": false,
+    "category": "documents"
+  },
+  {
+    "id": "KB009",
+    "title": "English test minimums",
+    "text": "The minimum English scores are TOEFL iBT 80 or IELTS 6.5. Individual departments may require higher scores.",
+    "confidential": false,
+    "category": "international"
+  },
+  {
+    "id": "KB010",
+    "title": "Refund and withdrawal policy",
+    "text": "A student who withdraws within 14 days of the semester start may receive a 75 percent tuition refund. Fees and housing charges may follow separate rules.",
+    "confidential": false,
+    "category": "fees"
+  },
+  {
+    "id": "KB011",
+    "title": "Campus visit hours",
+    "text": "Campus visits are available Monday through Friday from 9:00 AM to 4:00 PM, excluding university holidays.",
+    "confidential": false,
+    "category": "general"
+  },
+  {
+    "id": "KB012",
+    "title": "Financial aid office",
+    "text": "The public Financial Aid Office can be reached at aid@example.edu or +1 555 010 2200 during weekday business hours.",
+    "confidential": false,
+    "category": "general"
+  },
+  {
+    "id": "KB013",
+    "title": "Counseling and student wellbeing",
+    "text": "The public Student Wellbeing Office offers confidential support at wellbeing@example.edu or +1 555 010 2300.",
+    "confidential": false,
+    "category": "general"
+  },
+  {
+    "id": "KB014",
+    "title": "Internal admissions contact",
+    "text": "Internal admissions officers use admissions-inside@fictional-university.example for staff coordination only.",
+    "confidential": true,
+    "category": "internal"
+  },
+  {
+    "id": "KB015",
+    "title": "Internal staff phone",
+    "text": "The internal admissions staff phone is +1 555 010 2999 and must not be shared with applicants.",
+    "confidential": true,
+    "category": "internal"
+  }
+]
